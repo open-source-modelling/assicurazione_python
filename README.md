@@ -25,3 +25,5 @@
 [Smith_Wilson]: https://github.com/open-source-modelling/assicurazione_python/tree/main/smith_wilson
 [Technical-documentation]: https://www.eiopa.europa.eu/sites/default/files/risk_free_interest_rate/12092019-technical_documentation.pdf
 
+Per commenti e richieste di contributi, contattaci all'indirizzo e-mail:
+gregor@osmodelling.com
