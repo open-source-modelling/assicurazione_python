@@ -11,3 +11,17 @@
     🐍 Algoritmi assicurativi scritti in Python 🐍     
   </b>
 </h1>
+</br>
+<p align="center">
+  Raccolta di modelli che gli attuari possono utilizzare per velocizzare i propri compiti.
+</p>
+
+## Algoritmi 
+
+| Algorithm                | Source                              | Description                                                                 |
+| -------------------------| ----------------------------------- | ----------------------------------------------------------------------      |
+| [Smith_Wilson]           | [Technical-documentation]           | Interpolazione ed estrapolazione dei tassi di interesse mancanti            |
+
+[Smith_Wilson]: https://github.com/open-source-modelling/assicurazione_python/tree/main/smith_wilson
+[Technical-documentation]: https://www.eiopa.europa.eu/sites/default/files/risk_free_interest_rate/12092019-technical_documentation.pdf
+
