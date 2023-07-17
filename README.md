@@ -18,16 +18,19 @@
 
 ## Algoritmi 
 
-| Algorithm                | Source                              | Description                                                                   |
-| -------------------------| ----------------------------------- | ------------------------------------------------------------------------------|
-| [Smith_Wilson]           | [Technical-documentation]           | Interpolazione ed estrapolazione dei tassi di interesse mancanti              |
-| [Bootstrap_stazionario]   | [Politis-Romano-1994]               | Procedura di campionamento per osservazioni stazionarie debolmente dipendenti |
+| Algorithm                | Source                              | Description                                                                       |
+| -------------------------| ----------------------------------- | ----------------------------------------------------------------------------------|
+| [Smith_Wilson]           | [Technical-documentation]           | Interpolazione ed estrapolazione dei tassi di interesse mancanti                  |
+| [Bootstrap_stazionario]  | [Politis-Romano-1994]               | Procedura di campionamento per osservazioni stazionarie debolmente dipendenti     |
+| [Black_Scholes]          | [Wiki Black&Sholes]                 | Modello di Black-Scholes-Merton per il calcole del prezzo di strumenti finanziari |
 
 
 [Smith_Wilson]: https://github.com/open-source-modelling/assicurazione_python/tree/main/smith_wilson
 [Technical-documentation]: https://www.eiopa.europa.eu/sites/default/files/risk_free_interest_rate/12092019-technical_documentation.pdf
 [Bootstrap_stazionario]: https://github.com/open-source-modelling/assicurazione_python/tree/main/bootstrap_stazionario
 [Politis-Romano-1994]: https://www.jstor.org/stable/2290993
+[Black_Scholes]: https://github.com/open-source-modelling/assicurazione_python/tree/main/black_sholes
+[Wiki Black&Sholes]: https://it.wikipedia.org/wiki/Modello_di_Black-Scholes-Merton
 
 Per commenti e richieste di contributi, contattaci all'indirizzo e-mail:
 gregor@osmodelling.com
