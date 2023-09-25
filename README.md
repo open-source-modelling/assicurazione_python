@@ -26,7 +26,7 @@
 
 
 [Smith_Wilson]: https://github.com/open-source-modelling/assicurazione_python/tree/main/smith_wilson
-[Technical-documentation]: https://www.eiopa.europa.eu/sites/default/files/risk_free_interest_rate/12092019-technical_documentation.pdf
+[Technical-documentation]: https://www.eiopa.europa.eu/system/files/2022-09/eiopa-bos-22-409-technical-documentation.pdf
 [Bootstrap_stazionario]: https://github.com/open-source-modelling/assicurazione_python/tree/main/bootstrap_stazionario
 [Politis-Romano-1994]: https://www.jstor.org/stable/2290993
 [Black_Scholes]: https://github.com/open-source-modelling/assicurazione_python/tree/main/black_sholes
