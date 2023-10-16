@@ -23,8 +23,11 @@
 | [Smith_Wilson]           | [Technical-documentation]           | Interpolazione ed estrapolazione dei tassi di interesse mancanti                  |
 | [Bootstrap_stazionario]  | [Politis-Romano-1994]               | Procedura di campionamento per osservazioni stazionarie debolmente dipendenti     |
 | [Black_Scholes]          | [Wiki Black&Sholes]                 | Modello di Black-Scholes-Merton per il calcole del prezzo di strumenti finanziari |
+| [Nel_Si_Svansson]        | [BIS whitepaper]                    | Algoritmo Nelson-Siegel-Svansson per estrapolare/interpolare i tassi              |
 
 
+[BIS whitepaper]: https://www.bis.org/publ/bppdf/bispap25l.pdf
+[Nel_Si_Svansson]:https://github.com/open-source-modelling/assicurazione_python/tree/main/neil_siegel_svannson
 [Smith_Wilson]: https://github.com/open-source-modelling/assicurazione_python/tree/main/smith_wilson
 [Technical-documentation]: https://www.eiopa.europa.eu/system/files/2022-09/eiopa-bos-22-409-technical-documentation.pdf
 [Bootstrap_stazionario]: https://github.com/open-source-modelling/assicurazione_python/tree/main/bootstrap_stazionario
