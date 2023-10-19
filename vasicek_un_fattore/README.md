@@ -5,7 +5,7 @@
 </h1>
 
 
-Modello di Vasicek con a un fattore di stochasticita per simulare l'evoluzione di redimenti economici. Il modello Vasicek assume che il processo si evolva come un processo Ornstein-Uhlenbeck. Ornstein-Uhlenbeck è un processo stocastico in cui nel tempo il processo tende a derivare verso una media a lungo termine (mean reverting).
+Modello di Vasicek con un fattore di stochasticita per simulare l'evoluzione di redimenti economici. Il modello Vasicek assume che il processo si evolva come un processo Ornstein-Uhlenbeck. Ornstein-Uhlenbeck è un processo stocastico in cui nel tempo il processo tende a derivare verso una media a lungo termine (mean reverting).
 
 ## Problema
 When trying to simulate for example credit spreads, there is a variety of models. The choice of the model and its limitations are a key factor in deciding which model to implement. There are compelling economic arguments in favour of mean reversion.  
