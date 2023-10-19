@@ -24,8 +24,10 @@
 | [Bootstrap_stazionario]  | [Politis-Romano-1994]               | Procedura di campionamento per osservazioni stazionarie debolmente dipendenti     |
 | [Black_Scholes]          | [Wiki Black&Sholes]                 | Modello di Black-Scholes-Merton per il calcole del prezzo di strumenti finanziari |
 | [Nel_Si_Svansson]        | [BIS whitepaper]                    | Algoritmo Nelson-Siegel-Svansson per estrapolare/interpolare i tassi              |
+| [Un fattore Vasicek]     | [Vasicek wiki]                      | Simula una serie temporale di tassi utilizzando il modello Vasicek a un fattore   |
 
-
+[Vasicek wiki]: https://en.wikipedia.org//wiki/Vasicek_model
+[Un fattore Vasicek]: https://github.com/open-source-modelling/assicurazione_python/tree/main/vasicek_un_fattore
 [BIS whitepaper]: https://www.bis.org/publ/bppdf/bispap25l.pdf
 [Nel_Si_Svansson]:https://github.com/open-source-modelling/assicurazione_python/tree/main/neil_siegel_svannson
 [Smith_Wilson]: https://github.com/open-source-modelling/assicurazione_python/tree/main/smith_wilson
