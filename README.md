@@ -29,7 +29,7 @@
 [Vasicek wiki]: https://en.wikipedia.org//wiki/Vasicek_model
 [Un fattore Vasicek]: https://github.com/open-source-modelling/assicurazione_python/tree/main/vasicek_un_fattore
 [BIS whitepaper]: https://www.bis.org/publ/bppdf/bispap25l.pdf
-[Nel_Si_Svensson]:https://github.com/open-source-modelling/assicurazione_python/tree/main/neil_siegel_svennson
+[Nel_Si_Svensson]:https://github.com/open-source-modelling/assicurazione_python/tree/main/nelson_siegel_svennson
 [Smith_Wilson]: https://github.com/open-source-modelling/assicurazione_python/tree/main/smith_wilson
 [Technical-documentation]: https://www.eiopa.europa.eu/system/files/2022-09/eiopa-bos-22-409-technical-documentation.pdf
 [Bootstrap_stazionario]: https://github.com/open-source-modelling/assicurazione_python/tree/main/bootstrap_stazionario
