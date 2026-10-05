@@ -34,7 +34,7 @@
 [Technical-documentation]: https://www.eiopa.europa.eu/system/files/2022-09/eiopa-bos-22-409-technical-documentation.pdf
 [Bootstrap_stazionario]: https://github.com/open-source-modelling/assicurazione_python/tree/main/bootstrap_stazionario
 [Politis-Romano-1994]: https://www.jstor.org/stable/2290993
-[Black_Scholes]: https://github.com/open-source-modelling/assicurazione_python/tree/main/black_sholes
+[Black_Scholes]: https://github.com/open-source-modelling/assicurazione_python/tree/main/black_scholes
 [Wiki Black&Sholes]: https://it.wikipedia.org/wiki/Modello_di_Black-Scholes-Merton
 
 Per commenti e richieste di contributi, contattaci all'indirizzo e-mail:
