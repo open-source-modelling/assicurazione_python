@@ -40,7 +40,7 @@ L'implementazione è divisa in due parti:
 
 - Le informazioni di mercato disponibili e i parametri vengono utilizzati per "calibrare" l'algoritmo. Ciò restituisce un vettore di calibrazione che può essere utilizzato per interpolare o estrapolare le scadenze desiderate. Questo viene fatto calibrando le funzioni kernel. Consultare la funzione `SWCalibrazione()``.
 
-- I rendimenti per i ZCB con le scadenze desiderate vengono interpolati/estrapolati. Consultare la funzione `SWExtrapolate()``.
+- I rendimenti per i ZCB con le scadenze desiderate vengono interpolati/estrapolati. Consultare la funzione `SWEstrapolazione()``.
 
 Questo rilascio cerca di essere coerente con le specifiche tecniche di EIOPA.
 
