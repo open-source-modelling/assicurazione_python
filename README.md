@@ -11,6 +11,9 @@
     🐍 Algoritmi assicurativi scritti in Python 🐍     
   </b>
 </h1>
+<p align="center">
+  <a href="https://github.com/open-source-modelling/assicurazione_python/actions/workflows/ci.yml"><img src="https://github.com/open-source-modelling/assicurazione_python/actions/workflows/ci.yml/badge.svg" alt="CI"/></a>
+</p>
 </br>
 <p align="center">
   Raccolta di modelli che gli attuari possono utilizzare per velocizzare i propri compiti.
